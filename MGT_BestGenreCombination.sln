@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGT_BestGenreCombination", "MGT_BestGenreCombination\MGT_BestGenreCombination.csproj", "{10A13C00-0EE3-4611-9ACC-59C75B3AD52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A13C00-0EE3-4611-9ACC-59C75B3AD52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A13C00-0EE3-4611-9ACC-59C75B3AD52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A13C00-0EE3-4611-9ACC-59C75B3AD52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A13C00-0EE3-4611-9ACC-59C75B3AD52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
